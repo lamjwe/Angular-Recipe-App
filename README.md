@@ -1,6 +1,6 @@
-# RecipeApp
+# Angular-Recipe-App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Basic Angular App that allows user to add recipes to the app.
 
 ## Development server
 
